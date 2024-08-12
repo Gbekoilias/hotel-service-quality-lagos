@@ -1,6 +1,6 @@
 # Hotel Service Quality in Lagos 🏨✨
 
-![Hospitality Management](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbeta-computers.com%2Fhotel-management%2F&psig=AOvVaw3cvr49ApwY3uLFeeL9lRz4&ust=1723567283932000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDl5tjy74cDFQAAAAAdAAAAABAE)
+![Hospitality Management](https://beta-computers.com/wp-content/uploads/2020/01/tourism-jobs.jpg)
 
 ## Overview
 This repository contains the research project titled **"Assessing the Influence of Service Delivery on Customer Satisfaction in Three-Star Hotels in Lagos, Nigeria."** The study explores customer expectations, the factors influencing satisfaction, the relationship between service quality and customer satisfaction, and offers managerial recommendations to improve service quality in the hospitality sector.

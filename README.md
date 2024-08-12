@@ -45,6 +45,13 @@ This study is significant for hotel managers in Lagos, offering insights into ho
 ## Findings 📊
 The study reveals that service failure recovery is a critical area needing attention in Lagos' three-star hotels. The findings suggest that inadequate training and empowerment of hotel staff contribute to service delivery failures, which can negatively impact customer satisfaction.
 
+## Survey Questionnaire 📝
+To gather data for this research, we used a Google Form to survey hotel guests. You can view the survey questionnaire using the link below:
+
+[**Survey Questionnaire**](https://docs.google.com/forms/d/e/1FAIpQLSf2vWCYQF0x1qgIcZh_JzfseOWrWGf_XtQyFZqbwK_zMtTYKA/viewform?usp=sf_link)
+
+Your participation in this survey is crucial for the success of this research.
+
 ## Recommendations 📝
 To improve service quality and customer satisfaction, hotel managers should focus on:
 - Enhancing staff training programs.

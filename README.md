@@ -1,4 +1,4 @@
-# Hotel Service Quality in Lagos 🏨✨
+<h1 align = 'center'> Hotel Service Quality in Lagos 🏨✨ </h1>
 
 ![Hospitality Management](https://beta-computers.com/wp-content/uploads/2020/01/tourism-jobs.jpg)
 
